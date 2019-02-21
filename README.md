@@ -15,12 +15,10 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 # B. Flowchart Program
 
 ![flowchart latihan1](https://user-images.githubusercontent.com/46926758/53193448-8e52a380-3643-11e9-9f3e-82b74718a6aa.png)
-
-
+ 
 # C. Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 
 ![latihan1](https://user-images.githubusercontent.com/46926758/53193568-dd003d80-3643-11e9-95fe-e716873320f4.png)
-
 
 ## ==> Urutan Pembuatan Program
 
