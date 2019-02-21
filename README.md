@@ -3,6 +3,7 @@
 # Latihan 1
 
 # Program Sederhana Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
+
 ## A. Algoritma Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 1. Masukan Jumlah N pengulangan
 2. Proses pengulangan sesuai jumlah pengulangan yang dinputkan
@@ -31,15 +32,15 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 
 ### ==> Penjelasan Alur Program
 
-*print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')* Untuk Menampilkan atau Mencetak kalimat Tampilkan N Bilangan Acak yang Lebih Kecil Dari 0.5
+1. *print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')* Untuk Menampilkan atau Mencetak kalimat Tampilkan N Bilangan Acak         yang Lebih Kecil Dari 0.5
 
-*jumlah=int(input("Masukan Jumlah N : "))* Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
+2. *jumlah=int(input("Masukan Jumlah N : "))* Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data      bilangan bulat
 
-*import random**
+3. *import random**
 
-*for i in range ( jumlah )* : Untuk Pengulangan dengan range jumlah
+4. *for i in range ( jumlah )* : Untuk Pengulangan dengan range jumlah
 
-*print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5)))* Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5
+5. *print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5)))* Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan        hasil di bawah 0.5
 
 ## D. Hasil
 
@@ -155,9 +156,10 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 
 ![hasil program1](https://user-images.githubusercontent.com/46926758/53198323-b85d9300-364e-11e9-9c9f-a3c5570e9bf3.png)
 
+# sekian dan trimakasih
 
-# Nama  : ryan septianto
-# NIM   : 311810417
-# Kelas : TI.18 B.1
+   # Nama  : ryan septianto
+   # NIM   : 311810417
+   # Kelas : TI.18 B.1
 
 ![ucapan-terima-kasih](https://user-images.githubusercontent.com/46926758/53198741-c4962000-364f-11e9-8711-3918336e87a7.jpg)
