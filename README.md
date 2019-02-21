@@ -158,7 +158,7 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 
 # sekian dan trimakasih
 
-   # Nama  : ryan septianto
+   # Nama  : Ryan septianto
    # NIM   : 311810417
    # Kelas : TI.18 B.1
 
